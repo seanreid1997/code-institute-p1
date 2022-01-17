@@ -94,3 +94,42 @@ iframe {
     width: 70%;
     display: block;
 }
+
+/*Footer*/
+
+
+footer {
+    background-color: darkslategray;
+    height: 90px;
+}
+
+h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#social-media {
+    margin-left: 5%;
+}
+
+#more-info {
+    margin-left: 40%;
+}
+#social-media, #more-info {
+    float: left;
+    color: white;
+    font-size: 20px;
+}
+
+#social-media i {
+    font-size: 120%;
+    color: black;
+}
+h4 > a{
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+h4 > a:hover {
+    text-decoration: underline;
+}
