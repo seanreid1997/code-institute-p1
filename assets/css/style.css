@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&family=Roboto+Condensed:ital,wght@1,700&family=The+Nautigal:wght@700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    background-color: silver;
+}
+/*Header and Navigation Section*/
+header{
+    height: 60px;
+}
+
+#nav-section {
+    background-color: darkslategray;
+    width: 100%;
+    line-height: 60px;
+    opacity: 0.7;
+    position: absolute;
+}
+
+#menu a{
+    color: white;
+    font-size: 40px;
+    font-weight: 200;
+    text-decoration: none;
+    margin-left: 20%;
+    float: left;
+    display: block;
+}
+
+#menu a:hover {
+    text-decoration: underline;
+
+}
+
+/*hero-image*/
+
+#image {
+    height: 400px;
+    width: 100%;
+}
+
+#main-image{
+    background: url("../images/Bletchley_Park_Mansion.jpg") no-repeat center center / contain;
+    height: 400px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'The Nautigal', sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: ivory;
+}
