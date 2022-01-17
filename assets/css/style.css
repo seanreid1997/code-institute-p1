@@ -149,3 +149,138 @@ h4 > a{
 h4 > a:hover {
     text-decoration: underline;
 }
+
+/*media queries*/
+
+@media screen and (max-width: 425px){
+    header{
+        height: 30px;
+    }
+    
+    #nav-section {
+        background-color: darkslategray;
+        width: 100%;
+        line-height: 30px;
+        opacity: 0.7;
+        position: absolute;
+    }
+    
+    #menu a{
+        color: white;
+        font-size: 15px;
+        font-weight: 50;
+        text-decoration: none;
+        margin-left: 20%;
+        float: left;
+        vertical-align: middle;
+    }
+    
+    #menu a:hover {
+        text-decoration: underline;
+    
+    }
+
+    /*hero-image*/
+
+#image {
+    height: 200px;
+    width: 100%;
+}
+
+#main-image{
+    background: url("../images/Bletchley_Park_Mansion.jpg") no-repeat center center / contain;
+    height: 200px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    border: 0;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: 'The Nautigal', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: ivory;
+}
+
+/*Gallery*/
+
+#gallery {
+    width: 100%;
+    column-count: 1;
+}
+
+#images > img{
+    display: block;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 2px 2px #777777;
+}
+
+    /*Footer*/
+
+
+footer {
+    background-color: darkslategray;
+    height: 50px;
+}
+
+h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#social-media {
+    margin-left: 5%;
+}
+
+#more-info {
+    margin-left: 10%;
+}
+#social-media, #more-info {
+    float: left;
+    color: white;
+    font-size: 10px;
+}
+
+h4 > a{
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+h4 > a:hover {
+    text-decoration: underline;
+}
+
+
+}
+
+@media screen and (max-width: 768px){ 
+
+}
+
+
+@media screen and (min-width: 1024px) {
+
+#gallery {
+    width: 100%;
+    column-count: 3;
+    column-gap: 10px;
+    }   
+
+#images > img{
+    display: block;
+    height: 300px;
+    width: 95%;
+    margin-left: 5px;
+    margin-right: auto;
+    margin-bottom: 80px;
+    box-shadow: 5px 5px 5px 5px #777777;
+    }
+}
