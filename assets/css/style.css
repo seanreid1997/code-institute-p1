@@ -95,6 +95,22 @@ iframe {
     display: block;
 }
 
+/*Gallery*/
+
+#gallery {
+    width: 100%;
+    column-count: 3;
+    column-gap: 10px;
+}
+
+#images > img{
+    height: 300px;
+    width: 500px;
+    margin-left: 5px;
+    margin-bottom: 80px;
+    box-shadow: 5px 5px 5px 5px #777777;
+}
+
 /*Footer*/
 
 
