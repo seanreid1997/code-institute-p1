@@ -97,6 +97,9 @@ iframe {
 
 /*Gallery*/
 
+#gallery-heading {
+    margin-bottom: 5px;
+}
 #gallery {
     width: 100%;
     column-count: 3;
@@ -136,10 +139,6 @@ h3 {
     font-size: 20px;
 }
 
-#social-media i {
-    font-size: 120%;
-    color: black;
-}
 h4 > a{
     color: white;
     font-size: 24px;
@@ -478,7 +477,13 @@ h4 > a:hover {
 
 @media screen and (min-width: 1024px) {
 
-#gallery {
+    #main-history > img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 55%;
+        display: block;
+    }
+    #gallery {
     width: 100%;
     column-count: 3;
     column-gap: 10px;
