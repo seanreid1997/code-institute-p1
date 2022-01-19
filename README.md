@@ -1,7 +1,7 @@
 # Bletchley Park Fan Page
 Welcome, this website is designed for those who would like an idea of what Bletchley Park is and give the viewers a basic understanding of it's history and attractions. A place for those who are inquisitive about one of the many historical landmarks in Buckinghamshire which havde made enormous contributions during WW2 a crucial time in British history.
+
 ## Features
-<hr>
 
 ### Navigation
 
@@ -32,8 +32,6 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <br>
 
 ## Testing
-
-<hr>
 
 ### Bugs
 
