@@ -82,8 +82,10 @@ p {
 }
 
 iframe {
-    width: 100%;
+    width: 65%;
     height: 400px;
+    float: right;
+    padding-right: 20%;
 }
 
 /*History*/
@@ -119,12 +121,11 @@ iframe {
 }
 
 /*Footer*/
-
-
 footer {
     background-color: darkslategray;
     height: 200px;
     width: 100%;
+    clear: both;
 }
 
 footer i {
