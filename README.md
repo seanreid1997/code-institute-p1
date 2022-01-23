@@ -44,7 +44,8 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <ul>
 <li>HTML code was checked on the w3 html validator. No errors were found.</li>
 <li>CSS code was checked on the w3 css validator. No errors were found</li>
-<li>Performance, Accessibility and SEO were checked via lighthouse in devtools.</li>
+<li>Performance, Accessibility and SEO were checked via lighthouse in devtools.<br>
+<img src="docs/lighthouse.jpg"></li>
 </ul>
 
 <br>
