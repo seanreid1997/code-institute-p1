@@ -196,6 +196,19 @@ h1 {
     color: ivory;
     }
 
+    /*About-section*/
+    iframe {
+        width: 100%;
+        height: 200px;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        border: 2px solid lightslategrey;
+        clear: both;
+        display: block;
+        margin-left: auto;
+        margin-right: 3%;
+    }
+
 /*Gallery*/
 
 #gallery {
