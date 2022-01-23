@@ -214,8 +214,6 @@ h1 {
 }
 
     /*Footer*/
-
-
     footer {
         background-color: darkslategray;
         height: 65px;
@@ -232,8 +230,11 @@ h1 {
         margin-left: 13%;
         padding: 7% 0;
     }
+}
 
-@media screen and (min-width: 330px) and (max-width: 425px){
+@media screen and (min-width: 330px) and (max-width: 425px) {
+
+    /*header*/
     header{
         height: 30px;
     }
@@ -305,44 +306,27 @@ h1 {
 }
 
     /*Footer*/
-
-
-footer {
-    background-color: darkslategray;
-    height: 65px;
-}
-
-h3 {
-    font-family: 'Roboto Condensed', sans-serif;
-}
-
-#social-media {
-    margin-left: 5%;
-}
-
-#more-info {
-    margin-left: 25%;
-}
-#social-media, #more-info {
-    float: left;
-    color: white;
-    font-size: 12px;
-}
-
-h4 > a{
-    color: white;
-    font-size: 10px;
-    text-decoration: none;
-}
-
-h4 > a:hover {
-    text-decoration: underline;
-}
-
-
+    footer {
+        background-color: darkslategray;
+        height: 85px;
+        width: 100%;
+        clear: both;
+    }
+    
+    footer i {
+        float: left;
+        font-size: 100%;
+        color: rgb(248, 247, 245);
+        display: inline;
+        letter-spacing: 25px;
+        margin-left: 13.1%;
+        padding: 8% 0;
+    }
 }
 
 @media screen and (min-width: 450px) and (max-width: 768px){ 
+
+    /*header*/
     header{
         height: 30px;
     }
@@ -415,38 +399,21 @@ h1 {
 }
 
     /*Footer*/
-
-
-footer {
-    background-color: darkslategray;
-    height: 60px;
-}
-
-h3 {
-    font-family: 'Roboto Condensed', sans-serif;
-}
-
-#social-media {
-    margin-left: 5%;
-}
-
-#more-info {
-    margin-left: 40%;
-}
-#social-media, #more-info {
-    float: left;
-    color: white;
-    font-size: 10px;
-}
-
-h4 > a{
-    color: white;
-    font-size: 12px;
-    text-decoration: none;
-}
-
-h4 > a:hover {
-    text-decoration: underline;
+    footer {
+        background-color: darkslategray;
+        height: 120px;
+        width: 100%;
+        clear: both;
+    }
+    
+    footer i {
+        float: left;
+        font-size: 170%;
+        color: rgb(248, 247, 245);
+        display: inline;
+        letter-spacing: 60px;
+        margin-left: 12.5%;
+        padding: 5.5% 0;
     }
 }
 
@@ -475,4 +442,23 @@ h4 > a:hover {
     margin-bottom: 80px;
     box-shadow: 5px 5px 5px 5px #777777;
     }
+
+    /*footer*/
+    footer {
+        background-color: darkslategray;
+        height: 170px;
+        width: 100%;
+        clear: both;
+    }
+    
+    footer i {
+        float: left;
+        font-size: 250%;
+        color: rgb(248, 247, 245);
+        display: inline;
+        letter-spacing: 75px;
+        margin-left: 13%;
+        padding: 6% 0;
+    }
 }
+
