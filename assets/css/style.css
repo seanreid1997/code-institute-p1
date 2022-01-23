@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: silver;
+    background-color: rgb(173, 173, 173)
 }
 /*Header and Navigation Section*/
 header{
@@ -459,6 +459,25 @@ h1 {
         letter-spacing: 75px;
         margin-left: 13%;
         padding: 6% 0;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    footer {
+        background-color: darkslategray;
+        height: 200px;
+        width: 100%;
+        clear: both;
+    }
+    
+    footer i {
+        float: left;
+        font-size: 250%;
+        color: rgb(248, 247, 245);
+        display: inline;
+        letter-spacing: 100px;
+        margin-left: 13.5%;
+        padding: 5% 0;
     }
 }
 
