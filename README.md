@@ -32,9 +32,26 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <br>
 
 ## User Stories
-<br>
+<hr>
 
 ### Targeted Audeience
+<br>
+
+<ul>
+<li>Users who want learn about Bletchley Park.</li>
+<li>Users who don't want to waste time looking through wikipedia to get a basiic understanding of Bletchley Park.</li>
+<li>Users who want to know what kind of attractions they can expect to see.</li>
+</ul>
+<br>
+
+### First Time Users
+<br>
+
+<ul>
+<li></li>
+<li></li><li></li><li></li>
+</ul>
+
 <ul>
 <li></li> <li></li><li></li><li></li>
 </ul>
