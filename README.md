@@ -44,14 +44,11 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 </ul>
 <br>
 
-### First Time Users
-<br>
-
 ##### As A First Time User:
 <ul>
 <li>I expect the website to be clutter-free and appealing</li>
 <li>I expect to be able to navigate the site easily.</li>
-<li>I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.<li>
+<li>I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.</li>
 <li>I expect to learn about what makes Bletchley Park specail</li>
 <li>I expect to be able to learn all about Bletchley Park's history.</li>
 <li>I expect to be able to share my interest via social media.</li>
@@ -89,7 +86,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 ### Github Pages
 <br>
 
-<ul><li>The website was deployed to Github pages.</li></ul>
+<ul><li>The website was deployed to Github pages on 24/01/2022</li></ul>
 <br>
 
 ## Credits
@@ -104,7 +101,8 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 ### Content
 <br>
 
-<ul><li>The content for this website were from Wikipedia and were re-organised to be more appealing.</li></ul>
+<ul><li>The content for this website were from Wikipedia and were re-organised to be more appealing.</li>
+<li>Icons for social media were used from The FontAwesome website.</li></ul>
 <br>
 
  ### Media 
