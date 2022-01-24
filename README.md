@@ -32,7 +32,6 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <br>
 
 ## User Stories
-<hr>
 
 ### Targeted Audeience
 <br>
