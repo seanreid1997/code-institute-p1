@@ -47,13 +47,22 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 ### First Time Users
 <br>
 
+##### As A First Time User:
 <ul>
-<li></li>
-<li></li><li></li><li></li>
-</ul>
+<li>I expect the website to be clutter-free and appealing</li>
+<li>I expect to be able to navigate the site easily.</li>
+<li>I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.<li>
+<li>I expect to learn about what makes Bletchley Park specail</li>
+<li>I expect to be able to learn all about Bletchley Park's history.</li>
+<li>I expect to be able to share my interest via social media.</li>
+</ul><br>
 
+#### As A Returning User:
 <ul>
-<li></li> <li></li><li></li><li></li>
+<li>I want to be able to find information that I had previously seen without complications.</li>
+<li>I expect the information to be relevant and up to date.</li>
+<li>I expect to be able to give feedback.</li>
+<li>I expect to be able to find out if, how and when I can visit.</li>
 </ul>
 
 ## Testing
