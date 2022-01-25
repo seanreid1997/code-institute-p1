@@ -41,7 +41,8 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 <ul><li>Located at the bottom of each webpage there is footer.</li>
 <li>Within the footer there are a few icons that serve as links to other websites.</li>
-<li>Here you will find a links to social media as well as links for more info.</li>
+<li>Here you will find a links to social media as well as links for more info.</li><br>
+<img src="docs/footer.jpg">
 </ul>
 
 ## User Stories
