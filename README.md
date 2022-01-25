@@ -22,7 +22,9 @@ The <strong>Home</strong> page is where you will find information about Bletchle
 ### The History Page
 
 <br>
-The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.
+The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.<br>
+<img src="docs/history.jpg">
+
 
 <br>
 
