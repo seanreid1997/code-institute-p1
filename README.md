@@ -6,7 +6,9 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 ### Navigation
 
 <ul><li>Located at the top of the page you will see links to three separate pages.</li>
-<li>These pages will take you to the designated page that suits your interest.</li></ul>
+<li>These pages will take you to the designated page that suits your interest.<br>
+<img src="docs/nav.jpg"></li>
+</ul>
 
 <br>
 
@@ -27,7 +29,8 @@ The <strong>History</strong> page will give its viewer a brief but meaningful un
 ### The Gallery Page
 
 <br>
-In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.
+In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.<br>
+
 
 <br>
 
