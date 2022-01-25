@@ -77,6 +77,11 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 </ul>
 
 ## Testing
+<br>
+
+### Responsiveness:
+<ul>
+<li>I have confirmed that the site is responsive.</li></ul>
 
 ### Bugs
 
