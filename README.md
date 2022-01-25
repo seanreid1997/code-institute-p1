@@ -81,7 +81,8 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ### Responsiveness:
 <ul>
-<li>I have confirmed that the site is responsive.</li></ul>
+<li>I have confirmed that the site is responsive.</li><br>
+<img src="docs/responsive.jpg"></ul>
 
 ### Bugs
 
