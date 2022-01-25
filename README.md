@@ -6,30 +6,45 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 ### Navigation
 
 <ul><li>Located at the top of the page you will see links to three separate pages.</li>
-<li>These pages will take you to the designated page that suits your interest.</li></ul>
+<li>These pages will take you to the designated page that suits your interest.<br>
+<img src="docs/nav.jpg"></li>
+</ul>
 
 <br>
 
 ### The Home Page
 
 <br>
-The <strong>Home</strong> page is where you will find information about Bletchley Park to get a grasp of what kind of place it is as well as where you will find it's location. It includes a picture of the stunning Bletchley Park Mansion.
+The <strong>Home</strong> page is where you will find information about Bletchley Park to get a grasp of what kind of place it is as well as where you will find it's location. It includes a picture of the stunning Bletchley Park Mansion.<br>
+<img src="docs/homepage.jpg">
 
 <br>
 
 ### The History Page
 
 <br>
-The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.
+The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.<br>
+<img src="docs/history.jpg">
+
 
 <br>
 
 ### The Gallery Page
 
 <br>
-In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.
+In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.<br>
+<img src="docs/gallery.jpg">
 
 <br>
+
+### Footer
+<br>
+
+<ul><li>Located at the bottom of each webpage there is footer.</li>
+<li>Within the footer there are a few icons that serve as links to other websites.</li>
+<li>Here you will find a links to social media as well as links for more info.</li><br>
+<img src="docs/footer.jpg">
+</ul>
 
 ## User Stories
 
