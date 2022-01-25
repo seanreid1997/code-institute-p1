@@ -34,8 +34,15 @@ The <strong>History</strong> page will give its viewer a brief but meaningful un
 In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.<br>
 <img src="docs/gallery.jpg">
 
-
 <br>
+
+### Footer
+<br>
+
+<ul><li>Located at the bottom of each webpage there is footer.</li>
+<li>Within the footer there are a few icons that serve as links to other websites.</li>
+<li>Here you will find a links to social media as well as links for more info.</li>
+</ul>
 
 ## User Stories
 
