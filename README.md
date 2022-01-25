@@ -32,6 +32,7 @@ The <strong>History</strong> page will give its viewer a brief but meaningful un
 
 <br>
 In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.<br>
+<img src="docs/gallery.jpg>
 
 
 <br>
