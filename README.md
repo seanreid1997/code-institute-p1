@@ -75,7 +75,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <li>HTML code was checked on the w3 html validator. No errors were found.</li>
 <li>CSS code was checked on the w3 css validator. No errors were found</li>
 <li>Performance, Accessibility and SEO were checked via lighthouse in devtools.<br>
-<img src="docs/lighthouse.jpg"></li>
+<img src="docs/lighthouse2.jpg"></li>
 </ul>
 
 <br>
