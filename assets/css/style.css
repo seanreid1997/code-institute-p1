@@ -105,10 +105,6 @@ iframe {
 }
 
 /*Gallery*/
-
-#gallery-heading {
-    margin-bottom: 5px;
-}
 #gallery {
     width: 100%;
     column-count: 3;
