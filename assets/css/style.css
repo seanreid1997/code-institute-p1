@@ -38,10 +38,7 @@ header{
 
 /*hero-image*/
 
-#image {
-    height: 400px;
-    width: 100%;
-}
+
 
 #main-image{
     background: url("../images/Bletchley_Park_Mansion.jpg") no-repeat center center / contain;
