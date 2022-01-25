@@ -15,7 +15,8 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 ### The Home Page
 
 <br>
-The <strong>Home</strong> page is where you will find information about Bletchley Park to get a grasp of what kind of place it is as well as where you will find it's location. It includes a picture of the stunning Bletchley Park Mansion.
+The <strong>Home</strong> page is where you will find information about Bletchley Park to get a grasp of what kind of place it is as well as where you will find it's location. It includes a picture of the stunning Bletchley Park Mansion.<br>
+<img src="docs/homepage.jpg">
 
 <br>
 
