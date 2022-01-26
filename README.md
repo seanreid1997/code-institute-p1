@@ -59,8 +59,6 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 ## User Experience
 
-## User Stories
-
 ### Targeted Audeience
 <br>
 
