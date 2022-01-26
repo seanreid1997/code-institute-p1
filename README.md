@@ -38,6 +38,16 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 10. [Credits](#credits)
 11. [Acknowledgements](#acknowledgements)
 
+## Project Goals
+
+### User Goals
+
+<ul>
+<li>To learn about Bletchley Park.</li>
+<li>To learn about why Bletchley Park is such a famous historical figure.</li>
+<li>To see a gallery of pictures so they can learn more visually.</li>
+</ul>
+
 ## Features
 
 ### Navigation
