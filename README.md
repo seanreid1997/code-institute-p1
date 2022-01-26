@@ -135,7 +135,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 <ul><li>The content for this website were from Wikipedia and were re-organised to be more appealing.</li>
 <li>Icons for social media were used from The FontAwesome website.</li>
-<li>Everything was taken from my original draft<a href="https://github.com/seanreid1997/My-First-Project" target="_blank">seanreid1997/My-First-Project</a></li></ul>
+<li>Everything was taken from my original draft <a href="https://github.com/seanreid1997/My-First-Project" target="_blank">seanreid1997/My-First-Project</a></li></ul>
 <br>
 
  ### Media 
