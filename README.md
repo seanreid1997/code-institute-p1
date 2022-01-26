@@ -80,6 +80,11 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 ## Testing
 <br>
 
+### Running
+<ul>
+<li>Tested all hyperlinks and have confirmed that they all work as they should</li>
+</ul>
+
 ### Responsiveness:
 <ul>
 <li>I have confirmed that the site is responsive.</li><br>
