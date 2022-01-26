@@ -57,6 +57,38 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 <li>To appeal to users to learn even more and hopefully plan a visit.</li>
 </ul>
 
+## User Experience
+
+## User Stories
+
+### Targeted Audeience
+<br>
+
+<ul>
+<li>Users who want learn about Bletchley Park.</li>
+<li>Users who don't want to waste time looking through wikipedia to get a basiic understanding of Bletchley Park.</li>
+<li>Users who want to know what kind of attractions they can expect to see.</li>
+</ul>
+<br>
+
+##### As A First Time User:
+<ul>
+<li>I expect the website to be clutter-free and appealing</li>
+<li>I expect to be able to navigate the site easily.</li>
+<li>I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.</li>
+<li>I expect to learn about what makes Bletchley Park specail</li>
+<li>I expect to be able to learn all about Bletchley Park's history.</li>
+<li>I expect to be able to share my interest via social media.</li>
+</ul><br>
+
+#### As A Returning User:
+<ul>
+<li>I want to be able to find information that I had previously seen without complications.</li>
+<li>I expect the information to be relevant and up to date.</li>
+<li>I expect to be able to give feedback.</li>
+<li>I expect to be able to find out if, how and when I can visit.</li>
+</ul><br>
+
 ## Features
 
 ### Navigation
@@ -102,35 +134,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <img src="docs/footer.jpg">
 </ul>
 
-## User Stories
 
-### Targeted Audeience
-<br>
-
-<ul>
-<li>Users who want learn about Bletchley Park.</li>
-<li>Users who don't want to waste time looking through wikipedia to get a basiic understanding of Bletchley Park.</li>
-<li>Users who want to know what kind of attractions they can expect to see.</li>
-</ul>
-<br>
-
-##### As A First Time User:
-<ul>
-<li>I expect the website to be clutter-free and appealing</li>
-<li>I expect to be able to navigate the site easily.</li>
-<li>I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.</li>
-<li>I expect to learn about what makes Bletchley Park specail</li>
-<li>I expect to be able to learn all about Bletchley Park's history.</li>
-<li>I expect to be able to share my interest via social media.</li>
-</ul><br>
-
-#### As A Returning User:
-<ul>
-<li>I want to be able to find information that I had previously seen without complications.</li>
-<li>I expect the information to be relevant and up to date.</li>
-<li>I expect to be able to give feedback.</li>
-<li>I expect to be able to find out if, how and when I can visit.</li>
-</ul><br>
 
 # Wireframes
 <ul>
