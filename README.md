@@ -48,6 +48,15 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 <li>To see a gallery of pictures so they can learn more visually.</li>
 </ul>
 
+### Site Owner Goals
+
+<ul>
+<li>To introduce users to Bletchley Park.</li>
+<li>To be able to teach users about what makes Bletchley Park special.</li>
+<li>To provide more information than the official website but also a less complex stucture than wikipedia.</li>
+<li>To appeal to users to learn even more and hopefully plan a visit.</li>
+</ul>
+
 ## Features
 
 ### Navigation
