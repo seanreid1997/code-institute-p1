@@ -97,7 +97,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <img src="docs/responsive.jpg"></ul>
 
 ### Bugs
-
+<ul><li>Iframe for map shows the error "Google.com refused to connect".</li></ul>
 <br>
 
 ### Validation
