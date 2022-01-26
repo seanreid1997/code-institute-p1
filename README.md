@@ -75,7 +75,13 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <li>I expect the information to be relevant and up to date.</li>
 <li>I expect to be able to give feedback.</li>
 <li>I expect to be able to find out if, how and when I can visit.</li>
-</ul>
+</ul><br>
+
+# Wireframes
+<ul>
+<li>Home</li>
+<li>History</li>
+<li>Gallery</li></ul>
 
 ## Testing
 <br>
