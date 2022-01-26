@@ -118,7 +118,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 ### Github Pages
 <br>
 
-<ul><li>The website was deployed to Github pages on 24/01/2022</li></ul>
+<ul><li>The website was deployed to Github pages on 25/01/2022</li></ul>
 <br>
 
 ## Credits
