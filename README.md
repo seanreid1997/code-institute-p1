@@ -67,6 +67,10 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 <li>Users who want to know what kind of attractions they can expect to see.</li>
 </ul>
 
+### User Requirments and Expectations
+
+### User Stories
+
 ### As A First Time User:
 
 1. I expect the website to be clutter-free and appealing.
