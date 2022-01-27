@@ -71,7 +71,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 ### User Stories
 
-### As A First Time User:
+#### As A First Time User:
 
 1. I expect the website to be clutter-free and appealing.
 2. I expect to be able to navigate the site easily.
@@ -80,7 +80,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 5. I expect to be able to learn all about Bletchley Park's history.
 6. I expect to be able to share my interest via social media.
 
-### As A Returning User:
+#### As A Returning User:
 
 7. I want to be able to find information that I had previously seen without complications.
 8. I expect the information to be relevant and up to date.
@@ -88,7 +88,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 10. I expect to be able to find out if, how and when I can visit.
 
 
-### As A Site Owner:
+#### As A Site Owner:
 
 11. I want users to be able to navigate through the site effortlessley.
 12. I want users to be able to understand the information given regardless of age.
