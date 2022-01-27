@@ -67,7 +67,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 <li>Users who want to know what kind of attractions they can expect to see.</li>
 </ul>
 
-### User Requirments and Expectations
+### User Requirements and Expectations
 
 <ul>
 <li>Webpages that are easy to navigate.</li>
