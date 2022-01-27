@@ -12,7 +12,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
-    1. [Targeted Audience](#target-audience)
+    1. [Targeted Audience](#targeted-audience)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
