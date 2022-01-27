@@ -12,7 +12,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
     1. [User Goals](#user-goals)
     2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
-    1. [Target Audience](#target-audience)
+    1. [Targeted Audience](#target-audience)
     2. [User Requrements and Expectations](#user-requrements-and-expectations)
     3. [User Stories](#user-stories)
 3. [Design](#design)
@@ -68,6 +68,14 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 </ul>
 
 ### User Requirments and Expectations
+
+<ul>
+<li>Webpages that are easy to navigate.</li>
+<li>Social media links to share their interests.</li>
+<li>A place/link to be able to book a visit or contact Bletchley Park.</li>
+<li>To have all links and pages working properly.</li>
+<li>For contents to be easily understandable.</li>
+</ul>
 
 ### User Stories
 
