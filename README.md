@@ -59,7 +59,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 ## User Experience
 
-### Targeted Audeience
+### Targeted Audience
 
 <ul>
 <li>Users who want learn about Bletchley Park.</li>
