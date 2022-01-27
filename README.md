@@ -67,23 +67,30 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 <li>Users who want to know what kind of attractions they can expect to see.</li>
 </ul>
 
-##### As A First Time User:
-<ul>
-<li>I expect the website to be clutter-free and appealing</li>
-<li>I expect to be able to navigate the site easily.</li>
-<li>I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.</li>
-<li>I expect to learn about what makes Bletchley Park specail</li>
-<li>I expect to be able to learn all about Bletchley Park's history.</li>
-<li>I expect to be able to share my interest via social media.</li>
-</ul>
+### As A First Time User:
 
-#### As A Returning User:
-<ul>
-<li>I want to be able to find information that I had previously seen without complications.</li>
-<li>I expect the information to be relevant and up to date.</li>
-<li>I expect to be able to give feedback.</li>
-<li>I expect to be able to find out if, how and when I can visit.</li>
-</ul>
+1. I expect the website to be clutter-free and appealing.
+2. I expect to be able to navigate the site easily.
+3. I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.
+4. I expect to learn about what makes Bletchley Park special.
+5. I expect to be able to learn all about Bletchley Park's history.
+6. I expect to be able to share my interest via social media.
+
+### As A Returning User:
+
+7. I want to be able to find information that I had previously seen without complications.
+8. I expect the information to be relevant and up to date.
+9. I expect to be able to give feedback.
+10. I expect to be able to find out if, how and when I can visit.
+
+
+### As A Site Owner:
+
+11. I want users to be able to navigate through the site effortlessley.
+12. I want users to be able to understand the information given regardless of age.
+13. I want users to feel interested even a little when they leave.
+14. I want users to be able to visually see a living part of history.
+15. 
 
 ## Features
 
