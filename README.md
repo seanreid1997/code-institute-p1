@@ -134,6 +134,9 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 <ul>
 <li>HTML</li>
+<details><summary>Home</summary>
+<img src="docs/galleryframe3.jpg"></details>
+
 <li>CSS</li></ul>
 
 ### Frameworks and Tools
