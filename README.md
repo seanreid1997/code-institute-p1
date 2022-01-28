@@ -23,20 +23,13 @@ Welcome, this website is designed for those who would like an idea of what Bletc
     5. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks & Tools](#frameworks-&-tools)
+    2. [Frameworks and Tools](#frameworks-and-tools)
 5. [Features](#features)
 6. [Testing](#validation)
-    1. [HTML Validation](#HTML-validation)
-    2. [CSS Validation](#CSS-validation)
-    3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatability)
-    7. [Testing user stories](#testing-user-stories)
-8. [Bugs](#Bugs)
-9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+7. [Bugs](#Bugs)
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+10. [Acknowledgements](#acknowledgements)
 
 ## Project Goals
 
@@ -219,7 +212,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <details><summary>History</summary>
 <img src="docs/historyvalid.jpg"></details>
 <details><summary>Gallery</summary>
-<img src="docs/gallery.jpg"></details>
+<img src="docs/galleryvalid.jpg"></details>
 
 ### CSS
 
@@ -266,3 +259,8 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
  ### Media 
  
  <ul><li>All images were taken from Google Images.</li></ul>
+
+ [Performance](#performance)
+     [Device testing](#performing-tests-on-various-devices)
+     [Browser compatibility](#browser-compatability)
+     [Testing user stories](#testing-user-stories)
