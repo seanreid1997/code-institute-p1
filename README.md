@@ -205,8 +205,8 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 | **Bugs** | **Fixes** |
 | -------- | --------- |
 | The iframe for the map had an error of "google.com refused to connect". |
-| Accessibilty validation revealed a contrast error with level 1 heading. |
-| Html validation check revealed a warning to give nav section a heading. |
+| Accessibilty validation revealed a contrast error with level 1 heading. | 
+| Html validation check revealed a warning to give nav section a heading. | Change section elements to divs.
 
 
 ### Validation
