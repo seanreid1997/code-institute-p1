@@ -145,7 +145,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 <li>Github</li>
 <li>Gitpod</li>
 <li>Google Fonts</li>
-<li>Windows Paint App</li>li>
+<li>Windows Paint App</li>
 </ul>
 
 
