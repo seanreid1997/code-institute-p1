@@ -85,7 +85,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 7. I want to be able to find information that I had previously seen without complications.
 8. I expect the information to be relevant and up to date.
-9. I expect to be able to give feedback.
+9. I expect to be able to 
 10. I expect to be able to find out if, how and when I can visit.
 
 
@@ -110,14 +110,11 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 ### Wireframes
 
-
 <details><summary>Home</summary>
 <img src="docs/homeframe2.jpg">
 </details>
-
 <details><summary>History</summary>
 <img src="docs/historyframe2.jpg"></details>
-
 <details><summary>Gallery</summary>
 <img src="docs/galleryframe3.jpg"></details>
 
@@ -159,6 +156,8 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 The <strong>Home</strong> page is where you will find information about Bletchley Park to get a grasp of what kind of place it is as well as where you will find it's location. It includes a picture of the stunning Bletchley Park Mansion.
 <img src="docs/homepage.jpg">
+
+User stories: 
 
 
 
@@ -238,6 +237,21 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 <details><summary>Gallery</summary>
 <img src="docs/accessgalleryvalid.jpg"></details>
 
+### Performance
+
+<details><summary>Home</summary>
+<img src="docs/performanceindex.jpg"></details>
+<details><summary>History</summary>
+<img src="docs/performancehistory.jpg"></details>
+<details><summary>Gallery</summary>
+<img src="docs/performancegallery.jpg"></details>
+
+### Device Testing
+
+### Browser Compatibility
+
+### Testing User Stories
+
 ## Deployment
 
 ### Github Pages
@@ -272,11 +286,11 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 
  <ul>
  <li>I would like t othank my mentor Mo Shami for his patience and advice during this project. I had started the project on the wrong foot but he brought it back in time for me to finish before the deadline.</li>
+ <li>I would like to thank Developer Ana Runje, whos project README structure inspired my own.</li>
  <li>I would also like to thank the Stack Overflow community as well for help with a number of queries i had during this time</li>
  <li>And lastly I would like to thank the Code Institute student care team for the continued support.</li>
  </ul>
 
- [Performance](#performance)
      [Device testing](#performing-tests-on-various-devices)
      [Browser compatibility](#browser-compatability)
      [Testing user stories](#testing-user-stories)
