@@ -134,8 +134,6 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 <ul>
 <li>HTML</li>
-<details><summary>Home</summary>
-<img src="docs/galleryframe3.jpg"></details>
 
 <li>CSS</li></ul>
 
@@ -214,9 +212,21 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ### Validation
 
-#### Html
+#### HTML
 
-### Css
+<details><summary>Home</summary>
+<img src="docs/indexvalid.jpg"></details>
+<details><summary>History</summary>
+<img src="docs/historyvalid.jpg"></details>
+<details><summary>Gallery</summary>
+<img src="docs/gallery.jpg"></details>
+
+### CSS
+
+<details><summary>Css</summary>
+<img src="docs/cssvalid.jpg"></details>
+
+
 
 ### Accessablility
 
