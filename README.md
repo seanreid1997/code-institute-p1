@@ -119,10 +119,14 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 
 <details><summary>Home</summary>
-<img src="">
+<img src="docs/homeframe2.jpg">
 </details>
-<li>History</li>
-<li>Gallery</li></ul>
+
+<details><summary>History</summary>
+<img src="docs/historyframe2.jpg">
+
+<details><summary>Galley</summary>
+<img src="galleryframe3.jpg">
 
 ## Technologies Used
 
