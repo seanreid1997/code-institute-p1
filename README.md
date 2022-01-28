@@ -104,6 +104,34 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 14. I want users to be able to visually see a living part of history.
 15. 
 
+
+## Design
+
+### Design Choices
+
+### Color
+
+### Fonts
+
+### Structure
+
+### Wireframes
+
+
+<details><summary>Home</summary>
+<img src="">
+</details>
+<li>History</li>
+<li>Gallery</li></ul>
+
+## Technologies Used
+
+### Languages
+
+### Frameworks and Tools
+
+
+
 ## Features
 
 ### Navigation
@@ -146,11 +174,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 
 
-# Wireframes
-<ul>
-<li>Home</li>
-<li>History</li>
-<li>Gallery</li></ul>
+
 
 ## Testing
 
@@ -170,10 +194,13 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ### Validation
 
+#### Html
+
+### Css
+
+### Accessablility
 
 
-<ul>
-<li>HTML code was checked on the w3 html validator. No errors were found.</li>
 <li>CSS code was checked on the w3 css validator. No errors were found</li>
 <li>Performance, Accessibility and SEO were checked via lighthouse in devtools.<br>
 <img src="docs/lighthouse2.jpg"></li>
