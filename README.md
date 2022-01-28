@@ -197,10 +197,16 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 ### Responsiveness:
 <ul>
 <li>I have confirmed that the site is responsive.</li>
-<img src="docs/responsive.jpg"></ul>
+<img src="docs/responsive.jpg">
+</ul>
 
 ### Bugs
-<ul><li>Iframe for map shows the error "Google.com refused to connect".</li></ul>
+
+| **Bugs** | **Fixes** |
+| -------- | --------- |
+| The iframe for the map had an error of "google.com refused to connect". |
+| Accessibilty validation revealed a contrast error with level 1 heading. |
+| Html validation check revealed a warning to give nav section a heading. |
 
 
 ### Validation
@@ -251,9 +257,11 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 
 ### Content
 
-<ul><li>The content for this website were from Wikipedia and were re-organised to be more appealing.</li>
+<ul>
+<li>The content for this website were from Wikipedia and were re-organised to be more appealing.</li>
 <li>Icons for social media were used from The FontAwesome website.</li>
-<li>Everything was taken from my original draft <a href="https://github.com/seanreid1997/My-First-Project" target="_blank">seanreid1997/My-First-Project</a></li></ul>
+<li>Everything was taken from my original draft <a href="https://github.com/seanreid1997/My-First-Project" target="_blank">seanreid1997/My-First-Project</a></li>
+</ul>
 
 
  ### Media 
