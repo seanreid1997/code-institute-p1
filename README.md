@@ -268,7 +268,7 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
  
  <ul><li>All images were taken from Google Images.</li></ul>
 
- ## Acknowlegdements
+ ## Acknowledgements
 
  <ul>
  <li>I would like t othank my mentor Mo Shami for his patience and advice during this project. I had started the project on the wrong foot but he brought it back in time for me to finish before the deadline.</li>
