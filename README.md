@@ -230,18 +230,18 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ### Accessablility
 
+Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 
-<li>CSS code was checked on the w3 css validator. No errors were found</li>
-<li>Performance, Accessibility and SEO were checked via lighthouse in devtools.<br>
-<img src="docs/lighthouse2.jpg"></li>
-</ul>
-
-
+<details><summary>Home</summary>
+<img src="docs/accesshomevalid.jpg"></details>
+<details><summary>History</summary>
+<img src="docs/accesshistoryvalid.jpg"></details>
+<details><summary>Gallery</summary>
+<img src="docs/accessgalleryvalid.jpg"></details>
 
 ## Deployment
 
 ### Github Pages
-
 
 <ul><li>The website was deployed to Github pages on 25/01/2022</li></ul>
 
@@ -249,9 +249,11 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ### Code Institute
 
-
-<ul><li>The template used for this website was the CI template from Code Institute.
-</li></ul>
+<ul>
+<li>The template used for this website was the CI template from Code Institute.
+</li>
+<li>Code for footer icons was inspired by Love Runnig project.</li>
+</ul>
 
 
 ### Content
@@ -263,5 +265,4 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
  ### Media 
  
-
-<ul><li>All images were taken from Google Images.</li></ul>
+ <ul><li>All images were taken from Google Images.</li></ul>
