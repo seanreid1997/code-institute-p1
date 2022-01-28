@@ -126,7 +126,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 <img src="docs/historyframe2.jpg">
 
 <details><summary>Gallery</summary>
-<img src="galleryframe3.jpg">
+<img src="galleryframe3.jpg"></details>
 
 ## Technologies Used
 
