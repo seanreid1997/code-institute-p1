@@ -123,7 +123,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 </details>
 
 <details><summary>History</summary>
-<img src="docs/historyframe2.jpg">
+<img src="docs/historyframe2.jpg"></details>
 
 <details><summary>Gallery</summary>
 <img src="docs/galleryframe3.jpg"></details>
@@ -132,8 +132,21 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 ### Languages
 
+<ul>
+<li>HTML</li>
+<li>CSS</li></ul>
+
 ### Frameworks and Tools
 
+<ul>
+<li>Balsamiq</li>
+<li>FontAwesome</li>
+<li>Git</li>
+<li>Github</li>
+<li>Gitpod</li>
+<li>Google Fonts</li>
+<li>Windows Paint App</li>li>
+</ul>
 
 
 ## Features
