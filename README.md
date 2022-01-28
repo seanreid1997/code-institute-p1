@@ -189,7 +189,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ## Testing
 
-### Running
+### Hyperlinks
 <ul>
 <li>Tested all hyperlinks and have confirmed that they all work as they should</li>
 </ul>
@@ -267,6 +267,14 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
  ### Media 
  
  <ul><li>All images were taken from Google Images.</li></ul>
+
+ ## Acknowlegdements
+
+ <ul>
+ <li>I would like t othank my mentor Mo Shami for his patience and advice during this project. I had started the project on the wrong foot but he brought it back in time for me to finish before the deadline.</li>
+ <li>I would also like to thank the Stack Overflow community as well for help with a number of queries i had during this time</li>
+ <li>And lastly I would like to thank the Code Institute student care team for the continued support.</li>
+ </ul>
 
  [Performance](#performance)
      [Device testing](#performing-tests-on-various-devices)
