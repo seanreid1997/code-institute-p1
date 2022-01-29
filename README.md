@@ -106,7 +106,7 @@ The website was designed to be a simple website with a simple layout that can ac
 ### Color
 
 For the color schemes in this project I used a website called <a href="https://colorate.azurewebsites.net">colorate.azurewebsites</a> to mix and match the color that I wanted.
-<img src="">
+<img src="docs/features/featcolor.jpg">
 
 ### Fonts
 
@@ -267,91 +267,119 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Webpages | View website | To be neat | Works as expected |
 <details><summary>Screenshots</summary>
-<img src=""></details>
+<img src="docs/ustesting/ustest1.jpg"></details>
 
 2. I expect to be able to navigate to other pages easily.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Navigation bar | Navigate to the top of any page. | All page links should work | Works as expected |
+| Navigation bar | Scroll up to the top of any page. | All page links should work | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest2.jpg"></details>
 
 3. I expect to learn about what makes Bletchley Park special.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | History | Navigate to the history page | Find relevant info | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest3.jpg"></details>
 
 4. I expect to be a locate Bletchley Park.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Homepage | Navigate to Homepage and scroll down | Find embedded map | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest4.jpg"></details>
 
 5. I expect to be able to contact Bletchley Park.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll down to the bottom the page and find the phone icon | Clicking icon takes you to official site | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest5.jpg"></details>
 
 6. I expect to be able to learn all about Bletchley Park's history.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | History Page | Navigate to history page and scroll down | Find all relevant info | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest6.jpg"></details>
 
 7. I expect to be able to share my interest via social media.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll to the bottom of any page | Clicking icons takes you to external sites | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest7.jpg"></details>
 
 8. I want to be able to find information that I had previously seen without complications.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Website | Navigate through the site | Find all relevant info hassle free | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest8.jpg"></details>
 
 9. I expect the information to be relevant and up to date.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Website | Navigate through site and check information | Info should be up to date | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest9.jpg"></details>
 
 10. I expect to be able to review the map.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Map | Scroll down on the homepage | Find embedded map | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest10.jpg"></details>
 
 11. I expect to be able to find out if, how and when I can visit.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll to the bottom of any page and click on phone icon | Takes you to official site | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest11.jpg"></details>
 
 12. I want users to be able to navigate through the site effortlessley.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | website | Navigate through website | Everything should be easy locate | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest12.jpg"></details>
 
 13. I want users to be able to understand the information given.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Website | Navigate through site | Information should be easy to understand | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest13.jpg"></details>
 
 14. I want users to feel interested even a little when they leave.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Gallery, History pages | Naviagte to pages and scroll | Find descriptions and images. | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest14.jpg"></details>
 
 15. I want users to be able to visually see a living part of history.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Gallery | Naviagte to gallery page and scroll | Find images of attractions | Works as expected |
+<details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustest15.jpg"></details>
 
 ## Bugs
 
