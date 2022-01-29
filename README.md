@@ -2,7 +2,6 @@
 (Developer: Sean Reid)
 
 <img src="docs/responsive.jpg">
-Welcome, this website is designed for those who would like an idea of what Bletchley Park is and give the viewers a basic understanding of it's history and attractions. A place for those who are inquisitive about one of the many historical landmarks in Buckinghamshire which havde made enormous contributions during WW2 a crucial time in British history.
 
 <a href="https://seanreid1997.github.io/code-institute-p1" target="_blank">Launch Live Website</a>
 
@@ -356,6 +355,7 @@ The website was tested on the browsers listed below:
 
 ## Bugs
 
+
 | **Bugs** | **Fixes** |
 | -------- | --------- |
 | The iframe for the map had an error of "google.com refused to connect". | Remove live map and replace with screenshot.
@@ -405,8 +405,7 @@ The site was deployed to GitHub Pages via the following steps:
  ## Acknowledgements
 
  <ul>
- <li>I would like t othank my mentor Mo Shami for his patience and advice during this project. I had started the project on the wrong foot but he brought it back in time for me to finish before the deadline.</li>
- <li>I would like to thank Developer Ana Runje, whos project README structure inspired my own.</li>
- <li>I would also like to thank the Stack Overflow community as well for help with a number of queries i had during this time</li>
+ <li>I would like to thank my mentor Mo Shami for his patience and advice during this project. I had started the project on the wrong foot but he tried to help salvage what we could.</li>
+ <li>I would also like to thank the Stack Overflow community as well for their advice</li>
  <li>And lastly I would like to thank the Code Institute student care team for the continued support.</li>
  </ul>
