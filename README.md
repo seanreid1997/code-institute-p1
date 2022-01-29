@@ -76,33 +76,33 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 #### As A First Time User:
 
-1. I expect the website to be clutter-free and appealing.
+1. I expect the website to be clean and clutter-free.
 2. I expect to be able to navigate the site easily.
-3. I want to be able to learn about Bletchley Park without having to waist time looking through complex websites like wikipedia.
-4. I expect to learn about what makes Bletchley Park special.
-5. I expect to be able to learn all about Bletchley Park's history.
-6. I expect to be able to share my interest via social media.
+3. I expect to learn about what makes Bletchley Park special.
+4. I expect to be a locate Bletchley Park.
+5. I expect to be able to contact Bletchley Park.
+6. I expect to be able to learn all about Bletchley Park's history.
+7. I expect to be able to share my interest via social media.
 
 #### As A Returning User:
 
-7. I want to be able to find information that I had previously seen without complications.
-8. I expect the information to be relevant and up to date.
-9. I expect to be able to 
-10. I expect to be able to find out if, how and when I can visit.
+8. I want to be able to find information that I had previously seen without complications.
+9. I expect the information to be relevant and up to date.
+10. I expect to be able to review the map.
+11. I expect to be able to find out if, how and when I can visit.
 
 
 #### As A Site Owner:
 
-11. I want users to be able to navigate through the site effortlessley.
-12. I want users to be able to understand the information given regardless of age.
-13. I want users to feel interested even a little when they leave.
-14. I want users to be able to visually see a living part of history.
-15. The I wan
-
+12. I want users to be able to navigate through the site effortlessley.
+13. I want users to be able to understand the information given regardless of age.
+14. I want users to feel interested even a little when they leave.
+15. I want users to be able to visually see a living part of history.
 
 ## Design
 
 ### Design Choices
+
 The website was designed to be a simple website with a simple layout that can act as source of information for viewers.
 
 ### Color
@@ -187,14 +187,14 @@ The Website has a very simple simple stucture. It consists of easy to understand
 
 ### The History Page
 
-The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.<br>
+The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.
 <img src="docs/history.jpg">
 <li>User stories covered:</li>
 
 
 ### The Gallery Page
 
-In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.<br>
+In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.
 <img src="docs/gallery.jpg">
 <li>User stories covered:</li>
 
@@ -218,6 +218,9 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 #### HTML
 
+<ul>
+<li>Html was validated via The WC3 Markup Validation Service.</li>
+</ul>
 <details><summary>Home</summary>
 <img src="docs/indexvalid.jpg"></details>
 <details><summary>History</summary>
@@ -227,6 +230,9 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ### CSS
 
+<ul>
+<li>Css was validated via The WC3 CSS Validation Service.</li>
+</ul>
 <details><summary>Css</summary>
 <img src="docs/cssvalid.jpg"></details>
 
