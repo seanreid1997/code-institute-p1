@@ -169,17 +169,17 @@ The Website has a very simple simple stucture. It consists of easy to understand
 
 ### The Home Page
 
-
 The <strong>Home</strong> page is where you will find information about Bletchley Park to get a grasp of what kind of place it is as well as where you will find it's location. It includes a picture of the stunning Bletchley Park Mansion.
 <img src="docs/homepage.jpg">
 
 User stories: 
 
+### Map
 
+The home page consists of a map. This allows user to visually locate Bletchley Park.
 
 ### The History Page
 
-<br>
 The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.<br>
 <img src="docs/history.jpg">
 
@@ -203,17 +203,6 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 
 ## Testing
-
-### Hyperlinks
-<ul>
-<li>Tested all hyperlinks and have confirmed that they all work as they should</li>
-</ul>
-
-### Responsiveness:
-<ul>
-<li>I have confirmed that the site is responsive.</li>
-<img src="docs/responsive.jpg">
-</ul>
 
 ### Bugs
 
