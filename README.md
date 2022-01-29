@@ -213,9 +213,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 ### Validation
 
 #### HTML
-<ul>
-<li>Html was validated via The WC3 Markup Validation Service.</li>
-</ul>
+Html was validated via The WC3 Markup Validation Service.
 <details><summary>Home</summary>
 <img src="docs/validation/indexvalid.jpg"></details>
 <details><summary>History</summary>
@@ -225,9 +223,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ### CSS
 
-<ul>
-<li>Css was validated via The WC3 CSS Validation Service.</li>
-</ul>
+Css was validated via The WC3 CSS Validation Service.
 <details><summary>Css</summary>
 <img src="docs/validation/cssvalid.jpg"></details>
 
