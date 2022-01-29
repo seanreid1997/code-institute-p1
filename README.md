@@ -283,6 +283,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | History | Navigate to the history page | Find relevant info | Works as expected |
 <details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustesth.jpg">
 <img src="docs/ustesting/ustest3.jpg"></details>
 
 4. I expect to be a locate Bletchley Park.
@@ -291,7 +292,9 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Homepage | Navigate to Homepage and scroll down | Find embedded map | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest4.jpg"></details>
+<img src="docs/ustesting/ustesthome.jpg">
+<img src="docs/ustesting/ustest4.jpg">
+</details>
 
 5. I expect to be able to contact Bletchley Park.
 
@@ -299,7 +302,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll down to the bottom the page and find the phone icon | Clicking icon takes you to official site | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest5.jpg"></details>
+<img src="docs/ustesting/ustestcall.jpg"></details>
 
 6. I expect to be able to learn all about Bletchley Park's history.
 
@@ -307,6 +310,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | History Page | Navigate to history page and scroll down | Find all relevant info | Works as expected |
 <details><summary>Screenshots</summary>
+<img src="docs/ustesting/ustesth.jpg">
 <img src="docs/ustesting/ustest6.jpg"></details>
 
 7. I expect to be able to share my interest via social media.
@@ -315,7 +319,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll to the bottom of any page | Clicking icons takes you to external sites | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest7.jpg"></details>
+<img src="docs/ustesting/ustestshare.jpg"></details>
 
 8. I want to be able to find information that I had previously seen without complications.
 
@@ -339,7 +343,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Map | Scroll down on the homepage | Find embedded map | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest10.jpg"></details>
+<img src="docs/ustesting/ustest4.jpg"></details>
 
 11. I expect to be able to find out if, how and when I can visit.
 
@@ -347,7 +351,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Footer | Scroll to the bottom of any page and click on phone icon | Takes you to official site | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest11.jpg"></details>
+<img src="docs/ustesting/ustestcall.jpg"></details>
 
 12. I want users to be able to navigate through the site effortlessley.
 
@@ -355,7 +359,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | website | Navigate through website | Everything should be easy locate | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest12.jpg"></details>
+<img src="docs/ustesting/ustest8.jpg"></details>
 
 13. I want users to be able to understand the information given.
 
@@ -363,7 +367,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Website | Navigate through site | Information should be easy to understand | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest13.jpg"></details>
+<img src="docs/ustesting/ustest8.jpg"></details>
 
 14. I want users to feel interested even a little when they leave.
 
@@ -371,7 +375,7 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Gallery, History pages | Naviagte to pages and scroll | Find descriptions and images. | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest14.jpg"></details>
+<img src="docs/ustesting/ustestgallery.jpg"></details>
 
 15. I want users to be able to visually see a living part of history.
 
@@ -379,7 +383,8 @@ The website was tested on the browsers listed below:
 |-------------|------------|---------------------|-------------------|
 | Gallery | Naviagte to gallery page and scroll | Find images of attractions | Works as expected |
 <details><summary>Screenshots</summary>
-<img src="docs/ustesting/ustest15.jpg"></details>
+<img src="docs/ustesting/ustestg.jpg">
+<img src="docs/ustesting/ustestgallery.jpg"></details>
 
 ## Bugs
 
