@@ -106,7 +106,16 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 ### Fonts
 
+All of the fonts for this project were taken from Google Fonts. 
+
 ### Structure
+
+The Website has a very simple simple stucture. It consists of easy to understand navigation bar and a footer with all of the external links. The navigation bar contains the links to three pages:
+<ul>
+<li>A Home page with all the basic information about Bletchley Park.</li>
+<li>A History page.</li>
+<li>A gallery page with a number of images.</li>
+</ul>
 
 ### Wireframes
 
