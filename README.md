@@ -91,7 +91,6 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 10. I expect to be able to review the map.
 11. I expect to be able to find out if, how and when I can visit.
 
-
 #### As A Site Owner:
 
 12. I want users to be able to navigate through the site effortlessley.
@@ -107,6 +106,8 @@ The website was designed to be a simple website with a simple layout that can ac
 
 ### Color
 
+For the color schemes in this project I used a website called <a href="https://colorate.azurewebsites.net">colorate.azurewebsites</a> to mix and match the color that I wanted.
+<img src="">
 
 ### Fonts
 
@@ -157,15 +158,14 @@ The Website has a very simple simple stucture. It consists of easy to understand
 <li>Windows Paint App</li>
 </ul>
 
-
 ## Features
 
-### Navigation
+### Navigation Bar
 
 <ul><li>Located at the top of the page you will see links to three separate pages.</li>
 <li>These pages will take you to the designated page that suits your interest.</li>
-<img src="docs/nav.jpg">
-<li>User stories covered:</li>
+<img src="docs/features/nav.jpg">
+<li>User stories covered: 2, 12,</li>
 </ul>
 
 ### The Home Page
@@ -173,30 +173,30 @@ The Website has a very simple simple stucture. It consists of easy to understand
 <ul>
 <li>The <strong>Home</strong> page contains an image of Bletchley Park Mansion.</li>
 <li>It also give a description about Bletchley Park</li>
-<img src="docs/homepage.jpg">
-<li>User stories covered:</li>
+<img src="docs/features/homepage.jpg">
+<li>User stories covered: 1, 4, 10, 11, </li>
 </ul>
 
 ### Map
 
 <ul>
 <li>The home page consists of an embedded map.</li>
-<img src="docs/featmap.jpg">
-<li>User stories covered:</li>
+<img src="docs/features/featmap.jpg">
+<li>User stories covered: 4, 10</li>
 </ul>
 
 ### The History Page
 
 The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.
-<img src="docs/history.jpg">
-<li>User stories covered:</li>
+<img src="docs/features/history.jpg">
+<li>User stories covered: 1, 3, 6</li>
 
 
 ### The Gallery Page
 
 In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.
-<img src="docs/gallery.jpg">
-<li>User stories covered:</li>
+<img src="docs/features/gallery.jpg">
+<li>User stories covered: 1, 15</li>
 
 
 ### Footer
@@ -204,29 +204,24 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <ul><li>Located at the bottom of each webpage there is footer.</li>
 <li>Within the footer there are a few icons that serve as links to other websites.</li>
 <li>Here you will find a links to social media as well as links for more info.</li>
-<img src="docs/featfooter.jpg">
-<li>User stories covered:</li>
+<img src="docs/features/featfooter.jpg">
+<li>User stories covered: 5, 7, 11</li>
 </ul>
-
-
-
-
 
 ## Testing
 
 ### Validation
 
 #### HTML
-
 <ul>
 <li>Html was validated via The WC3 Markup Validation Service.</li>
 </ul>
 <details><summary>Home</summary>
-<img src="docs/indexvalid.jpg"></details>
+<img src="docs/validation/indexvalid.jpg"></details>
 <details><summary>History</summary>
-<img src="docs/historyvalid.jpg"></details>
+<img src="docs/validation/historyvalid.jpg"></details>
 <details><summary>Gallery</summary>
-<img src="docs/galleryvalid.jpg"></details>
+<img src="docs/validation/galleryvalid.jpg"></details>
 
 ### CSS
 
@@ -234,29 +229,29 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <li>Css was validated via The WC3 CSS Validation Service.</li>
 </ul>
 <details><summary>Css</summary>
-<img src="docs/cssvalid.jpg"></details>
+<img src="docs/validation/cssvalid.jpg"></details>
 
 
 
 ### Accessablility
 
 Accessibility was tested via The Wave Web Accessibility Evaluation Tool
-
 <details><summary>Home</summary>
-<img src="docs/accesshomevalid.jpg"></details>
+<img src="docs/validation/accesshomevalid.jpg"></details>
 <details><summary>History</summary>
-<img src="docs/accesshistoryvalid.jpg"></details>
+<img src="docs/validation/accesshistoryvalid.jpg"></details>
 <details><summary>Gallery</summary>
-<img src="docs/accessgalleryvalid.jpg"></details>
+<img src="docs/validation/accessgalleryvalid.jpg"></details>
 
 ### Performance
 
+Performance was tested via Lighthouse from Google Dev Tools
 <details><summary>Home</summary>
-<img src="docs/performanceindex.jpg"></details>
+<img src="docs/validation/performanceindex.jpg"></details>
 <details><summary>History</summary>
-<img src="docs/performancehistory.jpg"></details>
+<img src="docs/validation/performancehistory.jpg"></details>
 <details><summary>Gallery</summary>
-<img src="docs/performancegallery.jpg"></details>
+<img src="docs/validation/performancegallery.jpg"></details>
 
 ### Device Testing
 
@@ -266,71 +261,87 @@ The website was tested on the browsers listed below:
 <ul>
 <li>Google Chrome</li>
 <li>Microsoft Edge</li>
-<li></li>
+<li>Firefox</li>
 </ul>
 
 ### Testing User Stories
 
-1. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+1. I expect the website to be clean and clutter-free.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Webpages | View website | To be neat | Works as expected |
+<details><summary>Screenshots</summary>
+<img src=""></details>
 
-2. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+2. I expect to be able to navigate to other pages easily.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Navigation bar | Navigate to the top of any page. | All page links should work | Works as expected |
 
-3. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+3. I expect to learn about what makes Bletchley Park special.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| History | Navigate to the history page | Find relevant info | Works as expected |
 
-4. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+4. I expect to be a locate Bletchley Park.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Homepage | Navigate to Homepage and scroll down | Find embedded map | Works as expected |
 
-5. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+5. I expect to be able to contact Bletchley Park.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Footer | Scroll down to the bottom the page and find the phone icon | Clicking icon takes you to official site | Works as expected |
 
-6. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+6. I expect to be able to learn all about Bletchley Park's history.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| History Page | Navigate to history page and scroll down | Find all relevant info | Works as expected |
 
-7. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+7. I expect to be able to share my interest via social media.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Footer | Scroll to the bottom of any page | Clicking icons takes you to external sites | Works as expected |
 
-8. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+8. I want to be able to find information that I had previously seen without complications.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Website | Navigate through the site | Find all relevant info hassle free | Works as expected |
 
-9. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+9. I expect the information to be relevant and up to date.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Website | Navigate through site and check information | Info should be up to date | Works as expected |
 
-10. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+10. I expect to be able to review the map.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Map | Scroll down on the homepage | Find embedded map | Works as expected |
 
-11. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+11. I expect to be able to find out if, how and when I can visit.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Footer | Scroll to the bottom of any page and click on phone icon | Takes you to official site | Works as expected |
 
-12. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+12. I want users to be able to navigate through the site effortlessley.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| website | Navigate through website | Everything should be easy locate | Works as expected |
 
-13. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+13. I want users to be able to understand the information given..
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Website | Navigate through site | Information should be easy to understand | Works as expected |
 
-14. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+14. I want users to feel interested even a little when they leave.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+| Gallery, History pages | Naviagte to pages and scroll | Find descriptions and images. | Works as expected |
 
-15. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+15. I want users to be able to visually see a living part of history.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
-
+| Gallery | Naviagte to gallery page and scroll | Find images of attractions | Works as expected |
 
 ## Bugs
 
