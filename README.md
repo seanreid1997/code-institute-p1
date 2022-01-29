@@ -391,7 +391,7 @@ The website was tested on the browsers listed below:
 
 | **Bugs** | **Fixes** |
 | -------- | --------- |
-| The iframe for the map had an error of "google.com refused to connect". | Remove live map and replace with screenshot.
+| The iframe for the map had an error of "google.com refused to connect". | Replace map with embedded map.
 | Accessibilty validation revealed a contrast error with level 1 heading. | Change h1 to darker color.
 | Html validation check revealed a warning to give nav section a heading. | Change section elements to divs.
 
@@ -417,7 +417,7 @@ The site was deployed to GitHub Pages via the following steps:
 <ul>
 <li>The template used for this website was the CI template from Code Institute.
 </li>
-<li>Code for footer icons was inspired by Love Runnig project.</li>
+<li>Code for footer icons was inspired by the Code Institute Love Runnig project.</li>
 </ul>
 
 
