@@ -204,15 +204,6 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 
 ## Testing
 
-### Bugs
-
-| **Bugs** | **Fixes** |
-| -------- | --------- |
-| The iframe for the map had an error of "google.com refused to connect". | Remove live map and replace with screenshot.
-| Accessibilty validation revealed a contrast error with level 1 heading. | 
-| Html validation check revealed a warning to give nav section a heading. | Change section elements to divs.
-
-
 ### Validation
 
 #### HTML
@@ -259,11 +250,28 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 
 ### Testing User Stories
 
+## Bugs
+
+| **Bugs** | **Fixes** |
+| -------- | --------- |
+| The iframe for the map had an error of "google.com refused to connect". | Remove live map and replace with screenshot.
+| Accessibilty validation revealed a contrast error with level 1 heading. | 
+| Html validation check revealed a warning to give nav section a heading. | Change section elements to divs.
+
+
 ## Deployment
 
 ### Github Pages
 
-<ul><li>The website was deployed to Github pages on 25/01/2022</li></ul>
+The site was deployed to GitHub Pages via the following steps:
+<ul>
+<li>Within the GitHub repository, navigate to the Settings tab.</li>
+<li>In the menu on the left select Pages.</li>
+<li>From the Source Branch menu seclect Main and save.</li>
+<li>Once complete the page will provide a link to deployed website.</li>
+<li>After a few minutes, refrsh the page and the site will be ready.</li>
+
+</ul>
 
 ## Credits
 
