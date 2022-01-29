@@ -106,7 +106,12 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 ### Fonts
 
-All of the fonts for this project were taken from Google Fonts. 
+All of the fonts for this project were taken from Google Fonts. The following fonts were used:
+<ul>
+<li>For the navigation bar and level 2 headings I used 'Roboto Condensed'.</li>
+<li>For the level 1 heading, the text on the main image, I used 'The Nautigal'.</li>
+<li>For the paragraphs I used 'EB Garamond'</li>
+</ul>
 
 ### Structure
 
