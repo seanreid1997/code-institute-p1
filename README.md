@@ -163,33 +163,40 @@ The Website has a very simple simple stucture. It consists of easy to understand
 ### Navigation
 
 <ul><li>Located at the top of the page you will see links to three separate pages.</li>
-<li>These pages will take you to the designated page that suits your interest.
-<img src="docs/nav.jpg"></li>
+<li>These pages will take you to the designated page that suits your interest.</li>
+<img src="docs/nav.jpg">
+<li>User stories covered:</li>
 </ul>
-
-
 
 ### The Home Page
 
-The <strong>Home</strong> page is where you will find information about Bletchley Park to get a grasp of what kind of place it is as well as where you will find it's location. It includes a picture of the stunning Bletchley Park Mansion.
+<ul>
+<li>The <strong>Home</strong> page contains an image of Bletchley Park Mansion.</li>
+<li>It also give a description about Bletchley Park</li>
 <img src="docs/homepage.jpg">
-
-User stories: 
+<li>User stories covered:</li>
+</ul>
 
 ### Map
 
-The home page consists of a map. This allows user to visually locate Bletchley Park.
+<ul>
+<li>The home page consists of an embedded map.</li>
+<img src="docs/featmap.jpg">
+<li>User stories covered:</li>
+</ul>
 
 ### The History Page
 
 The <strong>History</strong> page will give its viewer a brief but meaningful understanding of the history of Bletchley Park. On this page you wil also find out about the significant contributions that were made during the Second World War.<br>
 <img src="docs/history.jpg">
+<li>User stories covered:</li>
 
 
 ### The Gallery Page
 
 In the <strong>Gallery</strong> page you will see images of a few of the attractions that are located on the property. This page is made to give the viewers an idea of what to expect when visiting and places to visit.<br>
 <img src="docs/gallery.jpg">
+<li>User stories covered:</li>
 
 
 ### Footer
@@ -197,7 +204,8 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <ul><li>Located at the bottom of each webpage there is footer.</li>
 <li>Within the footer there are a few icons that serve as links to other websites.</li>
 <li>Here you will find a links to social media as well as links for more info.</li>
-<img src="docs/footer.jpg">
+<img src="docs/featfooter.jpg">
+<li>User stories covered:</li>
 </ul>
 
 
@@ -257,6 +265,67 @@ The website was tested on the browsers listed below:
 
 ### Testing User Stories
 
+1. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+2. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+3. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+4. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+5. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+6. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+7. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+8. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+9. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+10. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+11. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+12. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+13. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+14. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+15. | **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| News | Scroll down on home page and locate news section | Find latest news | Works as expected |
+
+
 ## Bugs
 
 | **Bugs** | **Fixes** |
@@ -296,6 +365,7 @@ The site was deployed to GitHub Pages via the following steps:
 <ul>
 <li>The content for this website were from Wikipedia and were re-organised to be more appealing.</li>
 <li>Icons for social media were used from The FontAwesome website.</li>
+<li>Map was taken from https://www.embedgooglemap.net/</li>
 <li>Everything was taken from my original draft <a href="https://github.com/seanreid1997/My-First-Project" target="_blank">seanreid1997/My-First-Project</a></li>
 </ul>
 
