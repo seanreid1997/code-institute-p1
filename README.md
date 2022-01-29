@@ -101,8 +101,10 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 ## Design
 
 ### Design Choices
+The website was designed to be a simple website with a simple layout that can act as source of information for viewers.
 
 ### Color
+
 
 ### Fonts
 
