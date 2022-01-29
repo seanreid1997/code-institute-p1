@@ -37,17 +37,19 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 
 <ul>
 <li>To learn about Bletchley Park.</li>
-<li>To learn about why Bletchley Park is such a famous historical figure.</li>
-<li>To see a gallery of pictures so they can learn more visually.</li>
+<li>To understand why Bletchley Park is such a famous historical figure.</li>
+<li>To see a gallery with images of different places there.</li>
 </ul>
 
 ### Site Owner Goals
 
 <ul>
 <li>To introduce users to Bletchley Park.</li>
-<li>To be able to teach users about what makes Bletchley Park special.</li>
-<li>To provide more information than the official website but also a less complex stucture than wikipedia.</li>
-<li>To appeal to users to learn even more and hopefully plan a visit.</li>
+<li>To be able to teach users about the importance of Bletchley Park.</li>
+<li>To provide more information in a less complex stucture than other sites.</li>
+<li>To appeal to users to want learn more and hopefully plan a visit.</li>
+<li>Pages should be responsive.</li>
+<li>User should not have to use browser back on 404 page.</li>
 </ul>
 
 ## User Experience
@@ -95,7 +97,7 @@ Welcome, this website is designed for those who would like an idea of what Bletc
 12. I want users to be able to understand the information given regardless of age.
 13. I want users to feel interested even a little when they leave.
 14. I want users to be able to visually see a living part of history.
-15. 
+15. The I wan
 
 
 ## Design
@@ -246,7 +248,12 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 
 ### Browser Compatibility
 
-
+The website was tested on the browsers listed below:
+<ul>
+<li>Google Chrome</li>
+<li>Microsoft Edge</li>
+<li></li>
+</ul>
 
 ### Testing User Stories
 
@@ -305,7 +312,3 @@ The site was deployed to GitHub Pages via the following steps:
  <li>I would also like to thank the Stack Overflow community as well for help with a number of queries i had during this time</li>
  <li>And lastly I would like to thank the Code Institute student care team for the continued support.</li>
  </ul>
-
-     [Device testing](#performing-tests-on-various-devices)
-     [Browser compatibility](#browser-compatability)
-     [Testing user stories](#testing-user-stories)
