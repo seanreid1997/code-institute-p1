@@ -448,7 +448,7 @@ The site was deployed to GitHub Pages via the following steps:
  ## Acknowledgements
 
  <ul>
- <li>I would like to thank my mentor Mo Shami for his patience and advice during this project. I had started the project on the wrong foot but he tried to help salvage what we could.</li>
+ <li>I would like to thank my mentor Mo Shami for his patience and advice during this project. I had started the project on the wrong foot but he more than helped me salvage what we could in only a week.</li>
  <li>I would also like to thank the Stack Overflow community as well for their advice</li>
  <li>And lastly I would like to thank the Code Institute student care team for the continued support.</li>
  </ul>
