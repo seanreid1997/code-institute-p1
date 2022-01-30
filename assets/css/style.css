@@ -134,11 +134,9 @@ footer i {
 /*404 page*/
 .container404 {
     width: 100%;
-    top: 50%;
-    transform: translateY(-50%);
     text-align: center;
     clear: both;
-    margin-top: 20px;
+    margin-top: 100px;
 }
 
 .container404 img{
@@ -147,7 +145,7 @@ footer i {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 100px;
+    margin-top: 30px;
 }
 
 .container404 h1 {
