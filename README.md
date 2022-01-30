@@ -415,9 +415,9 @@ The site was deployed to GitHub Pages via the following steps:
 ### Code Institute
 
 <ul>
-<li>The template used for this website was the CI template from Code Institute.
-</li>
+<li>The template used for this website was the CI template from Code Institute.</li>
 <li>Code for footer icons was inspired by the Code Institute Love Runnig project.</li>
+<li>Image for 404 page was taken from  www.freepik.com.</li>
 </ul>
 
 
