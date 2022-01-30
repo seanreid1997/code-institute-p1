@@ -207,6 +207,13 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <li>User stories covered: 5, 7, 11</li>
 </ul>
 
+### 404 
+<ul>
+<li>In case someone enters the wrong address a 404 page was added.</li>
+<li>404 page was consists of a message and button to return to homepage</li>
+<img src="docs/feat404.jpg">
+</ul>
+
 ## Testing
 
 ### Validation
