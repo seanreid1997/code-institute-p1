@@ -276,6 +276,16 @@ h1 {
         margin-left: 13%;
         padding: 7% 0;
     }
+
+    /*404 page*/
+    .container404 h2{
+        font-size: 100px;
+        width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        letter-spacing: 5%;
+    }
 }
 
 @media screen and (min-width: 330px) and (max-width: 425px) {
@@ -380,6 +390,16 @@ iframe {
         letter-spacing: 25px;
         margin-left: 13.1%;
         padding: 8% 0;
+    }
+
+    /*404* page*/
+    .container404 h2{
+        font-size: 120px;
+        width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        letter-spacing: 5%;
     }
 }
 
@@ -486,6 +506,16 @@ iframe {
         letter-spacing: 60px;
         margin-left: 12.5%;
         padding: 5.5% 0;
+    }
+
+    /*404 page*/
+    .container404 h2{
+        font-size: 170px;
+        width: 60%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        letter-spacing: 5%;
     }
 }
 
