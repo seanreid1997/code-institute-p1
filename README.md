@@ -211,7 +211,7 @@ In the <strong>Gallery</strong> page you will see images of a few of the attract
 <ul>
 <li>In case someone enters the wrong address a 404 page was added.</li>
 <li>404 page was consists of a message and button to return to homepage</li>
-<img src="docs/feat404.jpg">
+<img src="docs/features/feat404.jpg">
 </ul>
 
 ## Testing
@@ -226,6 +226,8 @@ Html was validated via The WC3 Markup Validation Service.
 <img src="docs/validation/historyvalid.jpg"></details>
 <details><summary>Gallery</summary>
 <img src="docs/validation/galleryvalid.jpg"></details>
+<details><summary>404</summary>
+<img src="docs/404/404valid.jpg"></details>
 
 ### CSS
 
@@ -244,6 +246,8 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 <img src="docs/validation/accesshistoryvalid.jpg"></details>
 <details><summary>Gallery</summary>
 <img src="docs/validation/accessgalleryvalid.jpg"></details>
+<details><summary>Gallery</summary>
+<img src="docs/404/access404valid.jpg"></details>
 
 ### Performance
 
