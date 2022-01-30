@@ -136,6 +136,8 @@ footer i {
     top: 50%;
     transform: translateY(-50%);
     text-align: center;
+    clear: both;
+    margin-top: 20px;
 }
 
 .container404 h1 {
