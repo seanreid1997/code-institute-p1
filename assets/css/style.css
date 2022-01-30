@@ -141,7 +141,7 @@ footer i {
 }
 
 .container404 h2{
-    height: 400px;
+    font-size: 400px;
     width: 60%;
     display: block;
     margin-left: auto;
@@ -167,6 +167,7 @@ footer i {
     border-radius: 25px;
     text-transform: uppercase;
     transition: 0.4s;
+    margin-bottom: 50px;
 }
 
 /*media queries*/

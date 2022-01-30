@@ -426,7 +426,7 @@ The site was deployed to GitHub Pages via the following steps:
 <li>The content for this website were from Wikipedia and were re-organised to be more appealing.</li>
 <li>Icons for social media were used from The FontAwesome website.</li>
 <li>Map was taken from https://www.embedgooglemap.net/</li>
-<li>Image for 404 page was taken from  www.freepik.com.</li>
+<li>Image for 404 page was taken from <a href='https://www.freepik.com/vectors/web'>Web vector created by stories - www.freepik.com</a>.</li>
 <li>Everything was taken from my original draft <a href="https://github.com/seanreid1997/My-First-Project" target="_blank">seanreid1997/My-First-Project</a></li>
 </ul>
 
