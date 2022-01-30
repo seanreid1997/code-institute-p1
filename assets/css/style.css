@@ -142,11 +142,7 @@ footer i {
 
 .container404 h2{
     font-size: 400px;
-    width: 60%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    letter-spacing: 5%;
+    text-align: center;
 }
 
 .container404 h3 {
@@ -154,7 +150,6 @@ footer i {
     margin-top: 20px;
     margin-bottom: 20px;
     font-weight: 900;
-    letter-spacing: 2%;
     font-family: 'The Nautigal', sans-serif;
     color: rgb(82, 46, 46);
     text-align: center;
@@ -280,11 +275,7 @@ h1 {
     /*404 page*/
     .container404 h2{
         font-size: 100px;
-        width: 60%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        letter-spacing: 5%;
+        text-align: center;
     }
 }
 
@@ -395,11 +386,7 @@ iframe {
     /*404* page*/
     .container404 h2{
         font-size: 120px;
-        width: 60%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        letter-spacing: 5%;
+        text-align: center;
     }
 }
 
@@ -511,11 +498,7 @@ iframe {
     /*404 page*/
     .container404 h2{
         font-size: 170px;
-        width: 60%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        letter-spacing: 5%;
+        text-align: center;
     }
 }
 
@@ -627,4 +610,3 @@ iframe {
         padding: 5% 0;
     }
 }
-
