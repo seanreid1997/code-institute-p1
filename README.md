@@ -246,7 +246,7 @@ Accessibility was tested via The Wave Web Accessibility Evaluation Tool
 <img src="docs/validation/accesshistoryvalid.jpg"></details>
 <details><summary>Gallery</summary>
 <img src="docs/validation/accessgalleryvalid.jpg"></details>
-<details><summary>Gallery</summary>
+<details><summary>404</summary>
 <img src="docs/404/access404valid.jpg"></details>
 
 ### Performance
