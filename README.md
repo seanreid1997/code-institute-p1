@@ -129,12 +129,12 @@ The Website has a very simple simple stucture. It consists of easy to understand
 ### Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/homeframe2.jpg">
+<img src="docs/wireframes/homeframe.jpg">
 </details>
 <details><summary>History</summary>
-<img src="docs/historyframe2.jpg"></details>
+<img src="docs/wireframes/historyframe.jpg"></details>
 <details><summary>Gallery</summary>
-<img src="docs/galleryframe3.jpg"></details>
+<img src="docs/wireframes/galleryframe.jpg"></details>
 
 ## Technologies Used
 
